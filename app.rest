@@ -1,0 +1,8 @@
+POST http://localhost:3005/posts
+Content-Type: application/json
+
+{
+    "userId": 1,
+    "title": "Title of the new book",
+    "body": "Body of the new book"
+}

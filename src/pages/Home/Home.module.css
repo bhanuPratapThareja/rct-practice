@@ -1,0 +1,31 @@
+.gamepage {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#gamebox {
+    border: 1px solid blue;
+    height: 20rem;
+    width: 20rem;
+}
+
+.he.llo {
+    color: blue;
+}
+
+.he {
+    color: red;
+}
+
+@media (min-width: 768px) {
+    #gamebox {
+        height: 10rem;
+        width: 10rem;
+    }
+    .he.llo {
+        color: yellow;
+    }
+}

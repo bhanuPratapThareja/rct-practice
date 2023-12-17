@@ -1,0 +1,15 @@
+@import "../../_variables.css";
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.toolbar {
+    background-color: var(--toolbar)
+}

@@ -1,0 +1,12 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 64px;
+}
+
+.navlinks {
+    color: white;
+    margin-left: 1rem;
+    text-decoration: none;
+}

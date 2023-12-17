@@ -1,0 +1,8 @@
+.error__layout {
+    background-color:  #222121;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

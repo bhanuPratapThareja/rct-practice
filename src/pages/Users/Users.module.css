@@ -1,0 +1,13 @@
+.users__header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto 4rem;
+    align-items: center;
+    height: 80px;
+}
+
+.user__name,
+.album__name {
+    padding-left: 1rem;
+}
